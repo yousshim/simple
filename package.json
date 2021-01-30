@@ -1,0 +1,19 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'nothing to build'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousshim/simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousshim/simple/issues"
+  },
+  "homepage": "https://github.com/yousshim/simple#readme"
+}
